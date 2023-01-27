@@ -1,16 +1,13 @@
 # cep_app
+Um aplicativo Flutter que busca ceps através de uma api e retorna os dados ao usuário na tela
 
-A new Flutter project.
+## O QUE FOI APRENDIDO NESTE PROJETO:
+- Trabalhar com formulários
+- Gerenciamento de dados
+- usar api de modelo
+- repository pattern
 
-## Getting Started
+Feito através de uma videoaula disponível no youtube
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
